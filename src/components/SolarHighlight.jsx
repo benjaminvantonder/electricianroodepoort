@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom'
+
 export default function SolarHighlight() {
   return (
     <section className="py-32" id="solar">
